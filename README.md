@@ -13,10 +13,12 @@
 ## Results
 ####  The way the search function work, is instead of putting in the and hitting a button, Dana would add what she was looking for in 1 or more of the boxes to filter out what she was looking for in the boxes.  
 ![image](https://user-images.githubusercontent.com/115171651/216450812-18f84421-ddea-475d-9aa3-dc45496ed74a.png)
-For example if she was looking for the cityor state she would do one of the following and get the shown results
+
+#### For example if she was looking for the cityor state she would do one of the following and get the shown results
 ![image](https://user-images.githubusercontent.com/115171651/216450960-fad26248-737d-4b6b-be8a-c1b0ea924d26.png)
 ![image](https://user-images.githubusercontent.com/115171651/216451008-0fb69c8b-39ba-498d-8dd3-63ec69f4575b.png)
-She could even do multiple things at once as shown in the state and shape example below.  
+
+##### She could even do multiple things at once as shown in the state and shape example below.  
 ![image](https://user-images.githubusercontent.com/115171651/216451090-12064793-8dd0-4cf5-a688-4af979c6a3de.png)
 
 
