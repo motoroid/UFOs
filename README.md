@@ -15,4 +15,7 @@
 
 
 ## Summary
-#### The one drawback to this design is you actually need to know the exact thing you are looking for.  If you don't choose an exact date the filter will not work.  Same with if you don't know the city or the country's 2 letter abbreviation.   
+#### The one drawback to this design is you actually need to know the exact thing you are looking for and the capitalization.  If you don't choose an exact date the filter will not work.  Same with if you don't know the city or the country's 2 letter abbreviation in a spefic case.
+
+#### For future development I would suggest adding a feature that would either suggest an input or allow for no case sensitivity.  
+
