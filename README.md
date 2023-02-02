@@ -11,11 +11,8 @@
 
 
 ## Results
-####  1.    The total number of employees getting ready to retire is 72,548 people.
-####  2.    By far the larget titles about to retire are Senior Engineer and Senior Staff who account for the 50,842 out of 72,458 employees.
-####  3.    As far as leadership there are only 2 managers and 3603 Technique leaders who are going to retire.     
-####  4.    There are 1549 employees who are eligible for the mentorship program.
+####  1.    
 
 
 ## Summary
-#### The one drawback to this design is you actually would need to know the city, there are too many cities in the world to know that.  
+#### The one drawback to this design is you actually need to know the exact thing you are looking for.  If you don't choose an exact date the filter will not work.  Same with if you don't know the city or the country's 2 letter abbreviation.   
